@@ -5,11 +5,3 @@ scikit-learn
 seaborn
 jupyter
 ipykernel
-
-kagglehub[pandas-datasets]
-
-pytorch
-torchvision
-torchaudio
-pytorch-cuda=12.4
-nvidia
